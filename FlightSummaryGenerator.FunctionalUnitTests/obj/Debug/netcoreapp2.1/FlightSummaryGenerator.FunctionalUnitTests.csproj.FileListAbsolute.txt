@@ -1,0 +1,17 @@
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\FlightSummaryGenerator.dll
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\obj\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.csprojAssemblyReference.cache
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\obj\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\obj\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.AssemblyInfoInputs.cache
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\obj\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.AssemblyInfo.cs
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.deps.json
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.runtimeconfig.json
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.runtimeconfig.dev.json
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.dll
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.pdb
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\bin\Debug\netcoreapp2.1\FlightSummaryGenerator.pdb
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\obj\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.csproj.CopyComplete
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\obj\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.dll
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator.FunctionalUnitTests\obj\Debug\netcoreapp2.1\FlightSummaryGenerator.FunctionalUnitTests.pdb

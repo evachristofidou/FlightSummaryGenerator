@@ -1,0 +1,10 @@
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\bin\Release\netcoreapp2.1\FlightSummaryGenerator.deps.json
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\bin\Release\netcoreapp2.1\FlightSummaryGenerator.runtimeconfig.json
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\bin\Release\netcoreapp2.1\FlightSummaryGenerator.runtimeconfig.dev.json
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\bin\Release\netcoreapp2.1\FlightSummaryGenerator.dll
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\bin\Release\netcoreapp2.1\FlightSummaryGenerator.pdb
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\obj\Release\netcoreapp2.1\FlightSummaryGenerator.csproj.CoreCompileInputs.cache
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\obj\Release\netcoreapp2.1\FlightSummaryGenerator.AssemblyInfoInputs.cache
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\obj\Release\netcoreapp2.1\FlightSummaryGenerator.AssemblyInfo.cs
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\obj\Release\netcoreapp2.1\FlightSummaryGenerator.dll
+C:\Users\sh185195\source\repos\FlightSummaryGenerator\FlightSummaryGenerator\obj\Release\netcoreapp2.1\FlightSummaryGenerator.pdb
