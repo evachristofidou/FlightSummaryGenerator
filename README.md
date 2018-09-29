@@ -1,8 +1,8 @@
 # Flight Summary Generator
 
 A console program that generates and outputs flight summary data.
-Making use of SOLID Formatting principles.
-  Creational pattern used: Factory Method
+Making use of SOLID Formatting principles.<br>
+ Creational pattern used: Factory Method
 
 - While launching the Console Program, the user is prompted to add a Valid Filename for the InputFile.
 - After the Summary of the File has been generated, the "FlightSummary.txt" is generated under 
